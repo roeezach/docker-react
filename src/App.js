@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi There once more and more!
+          Hi There once more and more! I added change from the example branch
         </p>
         <a
           className="App-link"
